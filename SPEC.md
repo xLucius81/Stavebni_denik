@@ -1,4 +1,4 @@
-# SPEC – Stavební deník (webová aplikace)
+[# SPEC – Stavební deník (webová aplikace)
 
 ## Správce systému
 - **Jméno:** Petr Říha, přezdívka Lucius
@@ -201,3 +201,4 @@ Na konci vždy `cp` do `/mnt/user-data/outputs/` a `present_files`.
 ---
 
 *Naposledy aktualizováno: 4. 5. 2026*
+](https://github.com/xLucius81/Stavebni_denik.git)
